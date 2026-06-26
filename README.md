@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 ## Design
 |  |
@@ -92,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
