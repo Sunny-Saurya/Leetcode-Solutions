@@ -75,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
