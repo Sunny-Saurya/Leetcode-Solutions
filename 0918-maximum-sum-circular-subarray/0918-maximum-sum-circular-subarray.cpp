@@ -1,22 +1,32 @@
 class Solution {
 public:
-    int maxSubarraySumCircular(vector<int>& nums) {
-        int globalMax = nums[0], globalMin = nums[0];
-        int currMax = 0, currMin = 0, total = 0;
+    int kadane(vector<int>& nums) {
+        int currSum = 0;
+        int maxSum = INT_MIN;
 
-        for (int x : nums) {
-            currMax = max(currMax + x, x);
-            currMin = min(currMin + x, x);
-
-            globalMax = max(globalMax, currMax);
-            globalMin = min(globalMin, currMin);
-
-            total += x;
+        for (int num : nums) {
+            currSum = max(currSum + num, num);
+            maxSum = max(maxSum, currSum);
         }
 
-        if (globalMax < 0)
-            return globalMax;
+        return maxSum;
+    }
 
-        return max(globalMax, total - globalMin);
+    int maxSubarraySumCircular(vector<int>& nums) {
+        int normalMax = kadane(nums);
+
+        if (normalMax < 0)
+            return normalMax;
+
+        int total = accumulate(nums.begin(), nums.end(), 0);
+
+        for (int &num : nums)
+            num = -num;
+
+        int maxNeg = kadane(nums);
+
+        int circularMax = total + maxNeg;
+
+        return max(normalMax, circularMax);
     }
 };
