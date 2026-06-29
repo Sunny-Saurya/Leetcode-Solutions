@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0904-fruit-into-baskets](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
