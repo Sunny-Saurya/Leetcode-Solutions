@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
