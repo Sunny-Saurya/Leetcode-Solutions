@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
