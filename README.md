@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
