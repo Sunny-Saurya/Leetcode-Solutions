@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0148-sort-list) |
+## Shortest Path
+|  |
+| ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
