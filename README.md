@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Stack
 |  |
 | ------- |
@@ -202,12 +204,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Topological Sort
 |  |
 | ------- |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
