@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int rob(vector<int>& nums) {
+        int n = nums.size()-1;
+        vector<int>dp(n+1, -1);
+        return solve(n,nums, dp);
+    }
+
+    int solve(int idx, vector<int>&nums, vector<int>&dp){
+        if(idx == 0 ) return nums[0];
+        if(idx < 0) return 0;
+
+        if(dp[idx] != -1) return dp[idx];
+
+        int take = nums[idx] + solve(idx-2, nums, dp);
+        int noteTake = 0 + solve(idx-1, nums, dp);
+
+        return dp[idx] = max(take, noteTake);
+
+    }
+};
