@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -233,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
