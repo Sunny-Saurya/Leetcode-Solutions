@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0312-burst-balloons](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0407-trapping-rain-water-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0312-burst-balloons](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0494-target-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
