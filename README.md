@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0148-sort-list) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0091-decode-ways) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
