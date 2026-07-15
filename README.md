@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0680-valid-palindrome-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
