@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0566-reshape-the-matrix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
