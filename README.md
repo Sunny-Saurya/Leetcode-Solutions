@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [1137-n-th-tribonacci-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -314,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
