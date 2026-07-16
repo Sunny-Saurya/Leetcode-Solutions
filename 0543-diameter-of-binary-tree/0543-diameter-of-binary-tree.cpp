@@ -20,10 +20,11 @@ public:
 
     int solve(TreeNode* root, int &dia){
         if(!root) return 0;
+
         int l = solve(root -> left, dia);
         int r = solve(root -> right, dia);
 
-        dia = max(dia, l+r);
-        return 1 + max(l,r);
+        dia = max(dia, l + r);
+        return 1 + max(l, r);
     }
 };
