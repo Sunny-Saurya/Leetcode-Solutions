@@ -17,9 +17,10 @@ public:
         if(!q) return false;
 
 
-        bool left = isSameTree(p -> left, q -> left);
         bool right = isSameTree(p -> right, q -> right);
+        bool left = isSameTree(p -> left, q -> left);
         bool ans = p -> val == q -> val;
-        return left && right && ans;
+
+        return ans && left && right;
     }
 };
