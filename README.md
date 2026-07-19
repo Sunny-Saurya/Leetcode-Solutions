@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2938-separate-black-and-white-balls](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0680-valid-palindrome-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2938-separate-black-and-white-balls](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [2938-separate-black-and-white-balls](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Stack
 |  |
