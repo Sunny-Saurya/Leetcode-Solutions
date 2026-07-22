@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2938-separate-black-and-white-balls](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/2938-separate-black-and-white-balls) |
