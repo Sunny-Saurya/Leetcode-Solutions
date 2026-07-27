@@ -1,41 +1,46 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class MyQueue {
-private:
-    stack<int> inStack, outStack;
-
-    void transfer() {
-        if (outStack.empty()) {
-            while (!inStack.empty()) {
-                outStack.push(inStack.top());
-                inStack.pop();
+public:
+stack<int>in, ot;
+    MyQueue() {
+        
+    }
+    
+    void push(int x) {
+        in.push(x);
+    }
+    
+    int pop() {
+        if(ot.empty()){
+            while(!in.empty()){
+                ot.push(in.top());
+                in.pop();
             }
         }
+        int x = ot.top();
+        ot.pop();
+        return x;
     }
-
-public:
-    MyQueue() {}
-
-    void push(int x) {
-        inStack.push(x);
-    }
-
-    int pop() {
-        transfer();
-        if (outStack.empty()) return -1; // queue empty
-        int val = outStack.top();
-        outStack.pop();
-        return val;
-    }
-
+    
     int peek() {
-        transfer();
-        if (outStack.empty()) return -1;
-        return outStack.top();
+         if(ot.empty()){
+            while(!in.empty()){
+                ot.push(in.top());
+                in.pop();
+            }
+        }
+        return ot.top();
     }
-
+    
     bool empty() {
-        return inStack.empty() && outStack.empty();
+        return in.empty() && ot.empty();
     }
 };
+
+/**
+ * Your MyQueue object will be instantiated and called as such:
+ * MyQueue* obj = new MyQueue();
+ * obj->push(x);
+ * int param_2 = obj->pop();
+ * int param_3 = obj->peek();
+ * bool param_4 = obj->empty();
+ */
