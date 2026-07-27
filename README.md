@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Recursion
