@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 ## Queue
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 ## Recursion
 |  |
 | ------- |
