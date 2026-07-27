@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Queue
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
