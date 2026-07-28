@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0566-reshape-the-matrix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 ## Simulation
