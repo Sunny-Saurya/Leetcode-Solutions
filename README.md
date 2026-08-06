@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1189-maximum-number-of-balloons](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3731-find-missing-elements](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0680-valid-palindrome-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2938-separate-black-and-white-balls](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Divide and Conquer
@@ -407,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
