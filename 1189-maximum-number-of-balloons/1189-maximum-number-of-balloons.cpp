@@ -1,25 +1,20 @@
 class Solution {
 public:
     int maxNumberOfBalloons(string text) {
-        unordered_map<int, int> mpp;
-        for (auto c : text) {
+        unordered_map<char, int> mpp;
+
+        for (char c : text) {
             if (c == 'b' || c == 'a' || c == 'l' || c == 'o' || c == 'n') {
                 mpp[c]++;
             }
-
         }
 
-        string key = "balloon";
-        int mini = INT_MAX;
-        
-        for (auto ch : key) {
-            if (ch == 'l' || ch == 'o')
-                mini = min(mini, mpp[ch] / 2);
-            else
-                mini = min(mini, mpp[ch]);
-        }
-
-        return mini;
-
+        return min({
+            mpp['b'],
+            mpp['a'],
+            mpp['l'] / 2,
+            mpp['o'] / 2,
+            mpp['n']
+        });
     }
 };
