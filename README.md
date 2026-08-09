@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0189-rotate-array) |
