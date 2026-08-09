@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -417,5 +421,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
