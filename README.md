@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0407-trapping-rain-water-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [1137-n-th-tribonacci-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -430,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sunny-Saurya/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
